@@ -1,0 +1,5 @@
+Channel utilization (in percentage) 86.99
+Channel idle fraction (in percentage) 9.766
+Total number of collisions 1622
+Variance in number of successful transmissions (across all nodes) 335.718
+Variance in number of collisions (across all nodes) 272.24
